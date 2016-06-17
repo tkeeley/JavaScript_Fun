@@ -1,0 +1,3 @@
+If you want to invite all your Facebook friends to like the page without clicking every person do this. In Chrome, sign in to your primary Facebook account and view the page you want to invite your friends to.On the left you'll see it says invite friends to like this page. Click that so your friends list opens up and scroll all the way to the bottom of the list. Paste the javascript into the address bar and hit enter. Check to make sure the javascript: is at the beginning before hitting enter.
+
+Please use this for good and not evil! I'm not responsible if you do something dumb and get in trouble!
